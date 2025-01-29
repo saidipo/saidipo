@@ -9,10 +9,6 @@
 
 ###
 
-<p align="left">I'm Mohamed , a passionate AI, game development, and software engineering enthusiast. I love crafting smart solutions, building immersive experiences, and pushing the limits of Java, Python, and full-stack development. Always exploring, always creating!</p>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611z3ns3s5yelhyb7h6a3u5g3wkpoefhefijy9xjbzy&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
