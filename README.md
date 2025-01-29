@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/fmMdxlVwsCmTtA4V6a/giphy.gif?cid=790b7611z3ns3s5yelhyb7h6a3u5g3wkpoefhefijy9xjbzy&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
@@ -92,11 +88,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/saidipo/saidipo/output/snake.svg" alt="Snake animation" />
 
 ###
